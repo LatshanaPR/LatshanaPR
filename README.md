@@ -95,12 +95,12 @@
 <h2 align="center">Currently Learning</h2>
 
 <p align="center">
-  <sub>🌐 Backend Development</sub><br />
-  <sub>☁️ Cloud Computing</sub><br />
-  <sub>🧩 Open Source Contributions</sub><br />
-  <sub>🤝 Building impactful software through real-world projects and collaborative development</sub><br />
-  <sub>🧠 Strengthening problem-solving skills through LeetCode</sub><br />
-  <sub>🗣️ Improving communication skills through practice</sub>
+  🌐 Backend Development<br />
+  ☁️ Cloud Computing<br />
+  🧩 Open Source Contributions<br />
+  🤝 Building impactful software through real-world projects and collaborative development<br />
+  🧠 Strengthening problem-solving skills through LeetCode<br />
+  🗣️ Improving communication skills through practice
 </p>
 
 ---
