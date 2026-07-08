@@ -79,13 +79,16 @@
 
 <h2 align="center">Experience</h2>
 
-<p align="center"><strong>Software Developer Intern</strong></p>
-<p align="center">LogIQ Labs Private Limited (eShipz)</p>
-<p align="center">May 2026 – June 2026</p>
-
-<p align="center"><strong>Innovation Practice Coursework</strong></p>
-<p align="center">CubeAISolutions Tech Pvt Ltd</p>
-<p align="center">December 2025 – April 2026</p>
+<table align="center">
+  <tr>
+    <td><strong>LogIQ Labs Private Limited (eShipz)</strong> | <em>Software Developer Intern</em></td>
+    <td align="right">May 2026 – Jun 2026</td>
+  </tr>
+  <tr>
+    <td><strong>CubeAISolutions Tech Pvt Ltd</strong> | <em>Innovation Practice Coursework</em></td>
+    <td align="right">December 2025 – April 2026</td>
+  </tr>
+</table>
 
 ---
 
@@ -98,37 +101,6 @@
 - Strengthening problem-solving skills through LeetCode
 - Improving communication skills through practice
 ---
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LatshanaPR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LatshanaPR&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LatshanaPR&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Card" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LatshanaPR&style=for-the-badge&color=0f172a" alt="Profile Visitor Counter" />
-</p>
-
----
-
-<h2 align="center">Coding Profiles</h2>
-
-<p align="center">
-  <a href="https://github.com/LatshanaPR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-LatshanaPR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
 
 ---
 
