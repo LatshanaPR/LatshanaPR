@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 🎓 Currently pursuing B.E. in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at PSG College of Technology.
+- 🎓 Currently pursuing B.E. Final year in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at PSG College of Technology.
 - 💼 Software Developer Intern @ LogIQ Labs (eShipz).
 - 💻 Passionate about software development and building technology solutions that solve real-world problems.
 - 🌱 Enthusiastic learner who enjoys exploring new technologies and continuously improving through hands-on experience.
@@ -94,12 +94,12 @@
 
 <h2 align="center">Currently Learning</h2>
 
-- Backend Development
-- Cloud Computing
-- Open Source Contributions
-- Building impactful software through real-world projects and collaborative development
-- Strengthening problem-solving skills through LeetCode
-- Improving communication skills through practice
+🌐 Backend Development
+☁️ Cloud Computing
+🧩 Open Source Contributions
+🤝 Building impactful software through real-world projects and collaborative development
+🧠 Strengthening problem-solving skills through LeetCode
+🗣️ Improving communication skills through practice
 ---
 
 ---
@@ -107,13 +107,13 @@
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/latshana-pr-3a37a32b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://my-port-folio-gray-seven.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:yogilatshana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
